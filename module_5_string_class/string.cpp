@@ -1,13 +1,14 @@
 #include <bits/stdc++.h>;
 using namespace std;
 
+int main()
+{
 
-int main (){
-   
-    int n;
-    cin >> n;
+    string s;
+    // cin >> s;        // input without space
+    getline(cin, s); // input with space
 
-    
-    cout << n << endl;
+    cout << s;
+
     return 0;
 }
