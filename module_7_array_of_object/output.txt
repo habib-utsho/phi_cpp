@@ -1,3 +1,6 @@
-Name: Habib Adnan roll: 5 Marks: 26
-Name: Hasib Imtiaz roll: 15 Marks: 23
-Name: Ahashan Habib Utsho roll: 29 Marks: 25
+ roll: 5 Marks: 26
+ roll: 6 Marks: 26
+ roll: 5 Marks: 25
+ roll: 15 Marks: 23
+ roll: 22 Marks: 23
+ roll: 29 Marks: 23

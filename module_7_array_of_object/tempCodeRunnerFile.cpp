@@ -1,4 +1,11 @@
-or (int i = 0; i < n; i++)
-    // {
-    //     students[i].getAllData();
-    // }
+ else
+    {
+        if (l.roll < r.roll)
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+    }
